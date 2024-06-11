@@ -3712,7 +3712,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"spacestation.png"
+         "value":"map.png"
         }, 
         {
          "name":"mapName",
